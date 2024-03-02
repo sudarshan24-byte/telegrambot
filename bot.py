@@ -7,9 +7,9 @@ import os
 
 bot = Client(
     'Translation Bot',
-    api_id = 29932859,
-    api_hash = 'c48a0c1bd13966081cd660153d58d384',
-    bot_token= '6168919731:AAFDMi3G8dqd2D_JruvHFNmfzJpVEhzpgiI'
+    api_id = '', # Your API ID here
+    api_hash = '', # Your API Hash code
+    bot_token= '' # Your Telegram Bot Token
 )
 
 translator = Translator()
